@@ -1,0 +1,37 @@
+.Cbig-box {
+  height: 100%;
+  width: 100%;
+}
+.Cbox-left {
+  width: 20%;
+  height: 604px;
+  background-color: #222;
+  float: left;
+}
+.Ckongge {
+  padding-top: 15px;
+  width: 100%;
+}
+.Cbox-right {
+  /* float: right; */
+}
+.Cbuttom-top {
+  height: 35px;
+  width: 100%;
+  background-color: #efeef0;
+}
+.Cbuttom-top-li {
+  float: left;
+}
+.Cbuttom-tupian {
+  float: left;
+  line-height: 35px;
+  margin-left: 20px;
+}
+.Cbuttom-h4 {
+  float: left;
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 35px;
+  margin-left: 10px;
+}
