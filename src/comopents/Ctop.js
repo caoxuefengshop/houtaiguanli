@@ -2,18 +2,23 @@ import React, { Component } from 'react';
 import "../styles/Ctop.css"
 import '../styles/font_ys9xqgdx8wp/iconfont.css'
 import Xiala from "../comopents/xiala"
+import {NavLink } from "react-router-dom";
+
+
 class Ctop extends Component {
+
+
 	render() {
 		return (
 			<div>
+			
 			<div className="Ctop">
 			<h2 className="Ctoph2">商城后台管理系统</h2>
 
 			<span className="Ctopspan">☷</span>
 			<ul className="Ctopul">
-			
-			<li className="Ctopli1">商城设置</li>	
-			<li className="Ctopli2">系统设置</li>	
+			<NavLink to="/shouye/shang" ><li className="Ctopli1">商城设置</li></NavLink>  
+			<NavLink to="/shouye/System"><li className="Ctopli2">系统设置</li>	</NavLink>  
 			</ul>
 			<div className="Ctop-right">
 				<li className="Crightli1">

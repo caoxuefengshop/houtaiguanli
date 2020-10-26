@@ -1,0 +1,81 @@
+.big-box {
+  width: 100%;
+  color: #666;
+  overflow: auto;
+}
+.big-box span {
+  padding: 0 20px;
+}
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  border-bottom: 1px solid #e5e5e5;
+  text-align: left;
+  line-height: 40px;
+  font-size: 12px;
+  padding: 0 20px;
+}
+.inp {
+  width: calc(100% - 20px);
+  height: 90px;
+  margin: 10px;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  padding: 0 15px;
+  border: 1px solid #d2d2d2;
+  border-bottom: none;
+}
+.inpu {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  padding-top: 10px;
+}
+.inpu input {
+  width: 158px;
+  height: 30px;
+  background-color: transparent;
+  border: 1px solid #d2d2d2 !important;
+  outline: none;
+  border: none;
+  text-indent: 10px;
+  margin-right: 10px;
+}
+.inpu .el-button {
+  width: 33px;
+  height: 30px;
+}
+.inpu .el-icon-search {
+  margin-left: -5px;
+}
+.btn .el-button {
+  width: 85px;
+  height: 30px;
+  border-radius: 0% !important;
+  background-color: #ff5722;
+  border: none;
+}
+.btn .el-button span {
+  padding: 0;
+}
+.btn .el-button i {
+  margin-left: -10px;
+}
+.btn {
+  display: flex;
+  margin-top: 10px;
+}
+.inpu .el-input {
+  color: #d2d2d2;
+}
+.table {
+  border: 1px solid #d2d2d2;
+  width: calc(100% - 42px);
+  margin-left: 10px;
+  padding: 0 10px;
+  /* border-top: none; */
+}
+.table table tbody tr td {
+  height: 50px;
+}

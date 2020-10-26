@@ -1,3 +1,10 @@
 .el-col-8 {
   width: 100%;
 }
+.el-menu--dark {
+  background-color: #222;
+}
+.el-menu--dark .el-menu-item,
+.el-menu--dark .el-submenu__title {
+  color: #fff;
+}

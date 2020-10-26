@@ -1,0 +1,20 @@
+table {
+  writing-mode: tb-ll;
+  font-size: 9pt;
+  border: 1px solid #e6e6e6;
+  border-collapse: collapse;
+  text-align: cneter;
+  min-width: auto !important;
+}
+th {
+  background-color: #e6e6e6;
+  min-width: auto !important;
+  padding: 9px 15px;
+  color: #666;
+  font-size: 12px;
+  font-weight: 200;
+}
+tr td {
+  padding: 9px 15px;
+  color: #666;
+}

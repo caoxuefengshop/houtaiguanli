@@ -1,0 +1,135 @@
+.dankuang {
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  position: absolute;
+  z-index: 10;
+  background-color: #fff;
+  top: 10%;
+  left: 20%;
+}
+.dankuang-top {
+  height: 45px;
+
+  line-height: 45px;
+}
+.dankuang-top span {
+  float: left;
+  margin-left: 20px;
+}
+.dankuang-top button {
+  float: right;
+  height: 30px;
+  width: 30px;
+  font-size: 25px;
+  border: 0;
+  margin: 10px 20px 0 0;
+  background-color: #fff;
+}
+.touxiang {
+  height: 70px;
+}
+.touxiang img {
+  height: 50px;
+  width: 50px;
+  float: left;
+  margin: 10px 0 0 30px;
+  border-radius: 50%;
+}
+.touxiang1 {
+  float: left;
+  margin-left: 30px;
+  margin-top: 15px;
+}
+.username {
+  height: 40px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-top: 30px;
+  margin: 0 20px;
+}
+.username p {
+  height: 40px;
+  width: 130px;
+  line-height: 40px;
+  float: left;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+}
+.username input {
+  height: 40px;
+  width: 600px;
+  border: none;
+  outline: none;
+}
+.telnum {
+  height: 40px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-top: 30px;
+  margin: 0 20px;
+}
+.telnum p {
+  height: 40px;
+  width: 130px;
+  line-height: 40px;
+  float: left;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+}
+.telnum input {
+  height: 40px;
+  width: 600px;
+  border: none;
+  outline: none;
+}
+.password {
+  height: 40px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-top: 30px;
+  margin: 0 20px;
+}
+.password p {
+  height: 40px;
+  width: 130px;
+  line-height: 40px;
+  float: left;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+}
+.password input {
+  height: 40px;
+  width: 600px;
+  border: none;
+  outline: none;
+}
+.password1 {
+  height: 40px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  margin-top: 30px;
+  margin: 0 20px;
+}
+.password1 p {
+  height: 40px;
+  width: 130px;
+  line-height: 40px;
+  float: left;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+}
+.password1 input {
+  height: 40px;
+  width: 600px;
+  border: none;
+  outline: none;
+}
+.tijiao {
+  height: 40px;
+  width: 100px;
+  margin-top: 40px;
+}
+.avatar-uploader {
+  position: absolute;
+}
